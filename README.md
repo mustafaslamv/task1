@@ -2,6 +2,6 @@
 
 Flutter Workshop First Task
 
-![alt text](https://github.com/mustafaslamv/task1/screenshot.jpg?raw=true)
+![Screenshot](https://github.com/mustafaslamv/task1/blob/main/screenshot.jpg?raw=true)
 
 
